@@ -1,4 +1,4 @@
-# Instructions for Setting Up and Running the Theatre Database Project
+# Instructions for Setting Up and Running this project:
 
 ### Step 1: Download MySQL Community Server
 In order to get the database working, download **MySQL Community Server 9.1.0**.
